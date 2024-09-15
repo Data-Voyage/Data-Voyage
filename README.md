@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-[![ArcaneSavant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArcaneSavant&theme=catppuccin_latte&show_icons=true&include_all_commits=true)](https://github.com/ArcaneSavant#gh-light-mode-only)
-[![ArcaneSavant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArcaneSavant&theme=catppuccin_mocha&show_icons=true&include_all_commits=true)](https://github.com/ArcaneSavant#gh-dark-mode-only)
+[![Data-Voyage's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Data-Voyage&theme=catppuccin_latte&show_icons=true&include_all_commits=true)](https://github.com/Data-Voyage#gh-light-mode-only)
+[![Data-Voyage's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Data-Voyage&theme=catppuccin_mocha&show_icons=true&include_all_commits=true)](https://github.com/Data-Voyage#gh-dark-mode-only)
