@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 😄 Pronouns: He/him
 - 
 -->
+<!-- cspell:words ArcaneSavant markdownlint typst -->
+<!-- markdownlint-disable MD041 -->
 -🔭 I’m a Data Analyst
--🌱 Currently learning Machine Learning(ML) with Scikit-Learn, Keras and TensorFlow
+-🌱 Currently learning Machine Learning(ML) with Scikit-Learn, PyTorch, Keras and TensorFlow 
 -👯 Looking to collaborate on the application of ML especially in business and environment
 
 ## GitHub Stats
