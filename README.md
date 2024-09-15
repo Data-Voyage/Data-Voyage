@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 
 -->
 🔭 I’m a Data Analyst
-🌱 I’m currently learning Machine Learning(ML) with Scikit-Learn, Keras and TensorFlow
-👯 I’m looking to collaborate on the application of ML especially in business and environment
+🌱 Currently learning Machine Learning(ML) with Scikit-Learn, Keras and TensorFlow
+👯 Looking to collaborate on the application of ML especially in business and environment
