@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 😄 Pronouns: He/him
 - 
 -->
-🔭 I’m a Data Analyst
-🌱 Currently learning Machine Learning(ML) with Scikit-Learn, Keras and TensorFlow
-👯 Looking to collaborate on the application of ML especially in business and environment
+-🔭 I’m a Data Analyst
+-🌱 Currently learning Machine Learning(ML) with Scikit-Learn, Keras and TensorFlow
+-👯 Looking to collaborate on the application of ML especially in business and environment
+
+## GitHub Stats
+
+[![ArcaneSavant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArcaneSavant&theme=catppuccin_latte&show_icons=true&include_all_commits=true)](https://github.com/ArcaneSavant#gh-light-mode-only)
+[![ArcaneSavant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArcaneSavant&theme=catppuccin_mocha&show_icons=true&include_all_commits=true)](https://github.com/ArcaneSavant#gh-dark-mode-only)
